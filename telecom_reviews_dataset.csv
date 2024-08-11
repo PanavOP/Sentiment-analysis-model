@@ -1,0 +1,201 @@
+Review,Sentiment
+"""Great network coverage, never have a problem getting a signal.""",Positive
+"""Customer service is terrible, waited on hold for an hour and got nowhere.""",Negative
+"""Data speeds are decent, but could be faster. Overall, satisfied with the service.""",Neutral
+"""Billing is a nightmare! Hidden fees and constant overcharges.""",Negative
+"""Love the international calling plan. Affordable and reliable.""",Positive
+"""Had a few dropped calls, but overall the network is pretty good.""",Positive
+"""The family plan saves us so much money. Everyone has their own data and unlimited talk.""",Positive
+"""Tech support was useless. They couldn't fix my internet issue.""",Negative
+"""The app is easy to use and I can manage my account on the go.""",Positive
+"""Switching to another provider ASAP. Worst customer service ever.""",Negative
+"""The 5G speeds are blazing fast! Downloads in seconds.""",Positive
+"""They have a great selection of phones at affordable prices.""",Positive
+"""The customer service rep was patient and resolved my issue quickly.""",Positive
+"""I've been a loyal customer for years and never had a reason to complain.""",Positive
+"""Their coverage in rural areas needs improvement.""",Neutral
+"""The speed is higher than expected""",Positive
+"""The call quality is inconsistent, sometimes clear, sometimes muffled.""",Neutral
+"""The online account management portal is user-friendly.""",Positive
+"""I had trouble activating my new SIM card.""",Negative
+"""Overall, a decent provider with room for improvement.""",Neutral
+"""Their unlimited data plan is a great value for the price.""",Positive
+"""I experienced a long wait time for technical support.""",Negative
+"""The network is generally reliable, but occasionally slow during peak hours.""",Neutral
+"""They offer great family discounts on multiple lines.""",Positive
+"""I'm disappointed with their lack of customer service options.""",Negative
+"""The signal strength is excellent, even in crowded areas.""",Positive
+"""The billing system is confusing and error-prone.""",Negative
+"""The data speeds are sufficient for my needs, but not the fastest.""",Neutral
+"""Their customer loyalty program offers valuable rewards.""",Positive
+"""The customer service representative was rude and unhelpful.""",Negative
+"""The voice quality is crystal clear, no dropped calls.""",Positive
+"""The installation process was quick and hassle-free.""",Positive
+"""The contract terms are too restrictive.""",Negative
+"""They offer a wide range of plans to suit different budgets.""",Positive
+"""The internet connection is unreliable, frequently disconnects.""",Negative
+"""The roaming charges are exorbitant.""",Negative
+"""The online support articles were helpful in troubleshooting my issue.""",Positive
+"""The customer service representative went above and beyond to help me.""",Positive
+"""The data caps are too low for my usage.""",Negative
+"""Their coverage map is misleading, I get no signal in some areas.""",Negative
+"""Their international roaming plans are expensive.""",Negative
+"""The mobile app is intuitive and easy to navigate.""",Positive
+"""I've never had an issue with billing errors.""",Positive
+"""The network is consistently fast and reliable.""",Positive
+"""They offer excellent value for the price.""",Positive
+"""I was able to easily upgrade my plan online.""",Positive
+"""Their customer service is available 24/7.""",Positive
+"""The data speeds are noticeably slower than advertised.""",Negative
+"""I experienced frequent service outages in my area.""",Negative
+"""The phone selection is limited.""",Negative
+"""The promotional offers are enticing.""",Positive
+"""The signal quality is poor in my basement.""",Negative
+"""Their customer loyalty program offers exclusive discounts.""",Positive
+"""I had to wait a long time for a replacement phone.""",Negative
+"""Their network infrastructure is robust and reliable.""",Positive
+"""The customer service agents are knowledgeable and helpful.""",Positive
+"""The phone upgrade process was smooth and efficient.""",Positive
+"""I'm disappointed with their limited coverage in rural areas.""",Negative
+"""The data throttling after reaching the limit is frustrating.""",Negative
+"""Their plans are flexible and customizable.""",Positive
+"""The billing statements are clear and easy to understand.""",Positive
+"""The customer service wait times are excessive.""",Negative
+"""The network performs well in both urban and suburban areas.""",Positive
+"""They offer a variety of value-added services.""",Positive
+"""The termination fees are unreasonably high.""",Negative
+"""The online troubleshooting resources are comprehensive.""",Positive
+"""The activation process was delayed due to technical issues.""",Negative
+"""They have a user-friendly website and app.""",Positive
+"""Their customer service representatives are difficult to reach.""",Negative
+"""They provide excellent coverage in my neighborhood.""",Positive
+"""The call quality is poor with frequent static and echoes.""",Negative
+"""Their data plans are affordable and offer ample data.""",Positive
+"""The porting process was complicated and time-consuming.""",Negative
+"""They have transparent and fair pricing policies.""",Positive
+"""I've never experienced any billing discrepancies.""",Positive
+"""Their customer service representatives are courteous and professional.""",Positive
+"""The network frequently experiences congestion and slowdowns.""",Negative
+"""Their phone selection includes the latest models.""",Positive
+"""They offer excellent deals for new customers.""",Positive
+"""The customer service representatives are poorly trained.""",Negative
+"""The network consistently provides fast download speeds.""",Positive
+"""Their customer service representatives are quick to respond.""",Positive
+"""The service activation process was simple and straightforward.""",Positive
+"""The contract terms are confusing and misleading.""",Negative
+"""The customer service representatives lack product knowledge.""",Negative
+"""The data coverage is excellent in both urban and rural areas.""",Positive
+"""The billing system is prone to errors.""",Negative
+"""Their network reliability has improved significantly.""",Positive
+"""The customer service representatives are empathetic and understanding.""",Positive
+"""Their international roaming rates are competitive.""",Positive
+"""The coverage map on their website is inaccurate.""",Negative
+"""The data speeds are sufficient for browsing and streaming.""",Positive
+"""Their customer service representatives are difficult to understand.""",Negative
+"""The monthly bill is affordable and predictable.""",Positive
+"""The customer service representatives are pushy and try to upsell.""",Negative
+"""Their network offers reliable voice and data services.""",Positive
+"""The customer service representatives are unhelpful and dismissive.""",Negative
+"""The online account management tools are user-friendly.""",Positive
+"""Their data plans are expensive compared to other providers.""",Negative
+"""Their phone upgrade program is flexible and affordable.""",Positive
+"""They offer a wide range of phone accessories and smart home devices.""",Positive
+"""I experienced frequent dropped calls and poor reception in my area.""",Negative
+"""The customer service wait times have improved significantly.""",Positive
+"""The billing department is unresponsive and difficult to reach.""",Negative
+"""The network coverage is spotty in rural areas.""",Negative
+"""Their data plans offer a good balance of speed and affordability.""",Positive
+"""The customer service representatives are polite and patient.""",Positive
+"""The contract termination process was a hassle.""",Negative
+"""Their mobile app is buggy and crashes frequently.""",Negative
+"""The network consistently delivers fast and reliable internet speeds.""",Positive
+"""They have a transparent and easy-to-understand refund policy.""",Positive
+"""I received a faulty phone and had to wait weeks for a replacement.""",Negative
+"""Their customer service representatives are well-informed and helpful.""",Positive
+"""The network is overloaded during peak hours, leading to slow speeds.""",Negative
+"""Their phone trade-in program is convenient and offers fair value.""",Positive
+"""The billing system is outdated and prone to errors.""",Negative
+"""They offer excellent family plans with shared data.""",Positive
+"""I was misled about the terms and conditions of my contract.""",Negative
+"""The network coverage extends to most remote areas.""",Positive
+"""The customer service representatives are unprofessional and rude.""",Negative
+"""They have a dedicated customer support line for technical issues.""",Positive
+"""The data caps are too low for my usage needs.""",Negative
+"""Their 5G network offers incredible speeds and low latency.""",Positive
+"""I was charged hidden fees that were not disclosed upfront.""",Negative
+"""They have a wide range of affordable prepaid plans.""",Positive
+"""The customer service representatives lack knowledge about their own products.""",Negative
+"""The network is reliable with minimal downtime.""",Positive
+"""The roaming charges are excessive when traveling internationally.""",Negative
+"""They offer great discounts for military personnel and veterans.""",Positive
+"""The customer service representatives are difficult to communicate with due to language barriers.""",Negative
+"""Their online self-service portal is convenient and easy to use.""",Positive
+"""The phone activation process was quick and painless.""",Positive
+"""The coverage map on their website is misleading.""",Negative
+"""They offer a generous data rollover policy.""",Positive
+"""The customer service representatives are not empowered to resolve issues.""",Negative
+"""They have a variety of affordable international calling options.""",Positive
+"""I experienced unexpected charges on my bill.""",Negative
+"""Their network prioritizes call quality over data speeds.""",Neutral
+"""They offer excellent deals on bundled services.""",Positive
+"""The customer service wait times are long and frustrating.""",Negative
+"""The network is secure and protects my personal data.""",Positive
+"""The phone upgrade options are limited.""",Negative
+"""Their mobile hotspot feature is convenient and reliable.""",Positive
+"""The customer service representatives are poorly trained.""",Negative
+"""The network offers seamless connectivity while traveling.""",Positive
+"""The billing process is automated and efficient.""",Positive
+"""The international calling rates are high.""",Negative
+"""The customer service representatives are proactive in resolving issues.""",Positive
+"""The data limits are too restrictive for heavy users.""",Negative
+"""Their family plan is a great value for multiple lines.""",Positive
+"""They have a user-friendly online forum for customer support.""",Positive
+"""I was put on hold for an extended period while trying to resolve a billing issue.""",Negative
+"""Their data plans are suitable for both light and heavy users.""",Positive
+"""The customer service representatives are not always available.""",Negative
+"""Their phone insurance plan provides peace of mind.""",Positive
+"""The network coverage is unreliable during bad weather.""",Negative
+"""Their online chat support is responsive and helpful.""",Positive
+"""The customer service representatives are difficult to understand due to accents.""",Negative
+"""They offer a wide range of affordable phone options.""",Positive
+"""I experienced unexpected charges for data roaming.""",Negative
+"""Their network provides seamless video calls.""",Positive
+"""The customer service representatives are not empowered to make decisions.""",Negative
+"""They have a variety of prepaid plans with no contracts.""",Positive
+"""The billing system is confusing and lacks transparency.""",Negative
+"""The customer service representatives are proactive in offering solutions.""",Positive
+"""The data speeds are inconsistent and often slow.""",Negative
+"""Their family plan offers great value for multiple lines.""",Positive
+"""The phone I purchased from them had manufacturing defects.""",Negative
+"""Their network is consistently reliable in both urban and rural areas.""",Positive
+"""The customer service representatives are poorly trained and provide inaccurate information.""",Negative
+"""They offer a generous trade-in program for old devices.""",Positive
+"""The billing department is difficult to reach and slow to respond.""",Negative
+"""The network offers seamless international roaming.""",Positive
+"""The customer service representatives are pushy and try to upsell unnecessary services.""",Negative
+"""Their mobile hotspot feature is convenient for on-the-go connectivity.""",Positive
+"""The network experiences frequent outages in my area.""",Negative
+"""They offer a variety of payment options for added convenience.""",Positive
+"""The customer service representatives are unresponsive to complaints.""",Negative
+"""They have a user-friendly website with detailed plan information.""",Positive
+"""The customer service representatives are not knowledgeable about their own plans.""",Negative
+"""Their coverage extends to remote areas with good signal strength.""",Positive
+"""The phone selection is limited and outdated.""",Negative
+"""Their customer loyalty program offers exclusive perks and benefits.""",Positive
+"""The customer service representatives are difficult to understand due to strong accents.""",Negative
+"""Their data plans are tailored to different usage patterns.""",Positive
+"""The billing system is prone to errors and overcharges.""",Negative
+"""Their network provides reliable connectivity for video conferencing.""",Positive
+"""The customer service representatives lack empathy and understanding.""",Negative
+"""They offer a wide range of affordable prepaid plans.""",Positive
+"""The network speed is consistently slow during peak hours.""",Negative
+"""Their online troubleshooting resources are helpful and easy to follow.""",Positive
+"""The customer service representatives are knowledgeable about their products and services.""",Positive
+"""The billing statements are clear and detailed.""",Positive
+"""The network coverage is poor in my neighborhood.""",Negative
+"""The customer service representatives are responsive and efficient.""",Neutral
+"""The data roaming charges are exorbitant.""",Neutral
+"""The online account management portal is user-friendly and intuitive.""",Positive
+"""The customer service representatives are difficult to reach.""",Negative
+"""They offer a wide range of affordable family plans.""",Positive
+"""The network experiences frequent dropped calls.""",Negative
